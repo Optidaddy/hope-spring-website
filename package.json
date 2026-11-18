@@ -1,0 +1,1 @@
+{"name":"hope-spring-ngo","version":"2.0.0","private":true,"description":"Hope Spring NGO website with Flask and Safaricom Daraja integration","scripts":{"start":"python app.py"}}
